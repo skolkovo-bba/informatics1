@@ -1,0 +1,325 @@
+Moscow Institute of Physics and Technology (MIPT; Russian: Московский Физико-Технический институт, also known as PhysTech), is a public research university located in Moscow Oblast, Russia. It prepares specialists in theoretical and applied physics, applied mathematics and related disciplines.
+
+The main MIPT campus is located in Dolgoprudny,[1] a northern suburb of Moscow. However the Aeromechanics Department is based in Zhukovsky, a suburb south-east of Moscow.
+
+In 2020 and 2021, Times Higher Education ranked MIPT #201 in the world, in 2022 QS World University Ratings ranked it #290 in the world, in 2022 U.S. News & World Report ranked it #438 in the world, and in 2022 Academic Ranking of World Universities ranked it #501 in the world.
+
+
+==History==
+[[File:E7347-MFTI-campus-view.jpg|alt=|thumb|A view of the MIPT campus and the city of Dolgoprudny from the Applied Mathematics Building]]
+In late 1945 and early 1946, a group of Soviet scientists, including the future Nobel Prize winner [[Pyotr Leonidovich Kapitsa|Pyotr Kapitsa]], lobbied the government for the creation of a higher educational institution radically different from the type established in the Soviet system of higher education. Applicants, selected by challenging examinations and personal interviews, would be taught by and work together with, prominent scientists. Each student would follow a personalized curriculum created to match his or her particular areas of interest and specialization. This system would later become known as the ''Phystech System''.{{citation needed|date=July 2022}}
+
+In a letter to [[Joseph Stalin|Stalin]] in February 1946, Kapitsa argued for the need for such a school, which he tentatively called the ''Moscow Institute of Physics and Technology'', to better maintain and develop the country's defense potential. The institute would follow the principles outlined above and was supposed to be governed by a board of directors of the leading research institutes of the [[USSR Academy of Sciences]]. On March 10, 1946, the government issued a decree mandating the establishment of a "College of Physics and Technology" ({{lang-ru|Высшая физико-техническая школа}}).<ref>[http://potential.org.ru/bin/view/Home/ArtDt200503051018PH5J3 "Повесть древних времён или предыстория Физтеха", Ch 3] {{Webarchive|url=https://web.archive.org/web/20061011070353/http://www.potential.org.ru/bin/view/Home/ArtDt200503051018PH5J3 |date=2006-10-11 }} by N. V. Karlov.</ref>
+
+[[Image:E7343-MFTI-Lab-Korpus.jpg|thumb|MIPT campus before renovation]]
+
+For unknown reasons, the initial plan came to a halt in the summer of 1946. The exact circumstances are not documented, but the common assumption is that Kapitsa's refusal to participate in the [[Soviet atomic bomb project]] and his disfavor with the government and communist party that followed, cast a shadow over an independent school based largely on his ideas. Instead, a new government decree was issued on November 25, 1946, establishing the new school as a Department of Physics and Technology within [[Moscow State University]]. November 25 is celebrated as the date of MIPT's founding.<ref>[http://potential.org.ru/bin/view/Home/ArtDt200504271517PH5J4  "Повесть древних времён или предыстория Физтеха", Ch 4] by N.V. Karlov.</ref>
+
+[[Image:E7356-MFTI-campus-view.jpg|thumb|left|The four oldest residence halls are across the street from the academic buildings.]]
+Kapitsa foresaw that within a traditional educational institution, the new school would encounter bureaucratic obstacles, but even though Kapitsa's original plan to create the new school as an independent organization did not come to fruition exactly as envisioned, its most important principles survived intact. The new department enjoyed considerable autonomy within Moscow State University. Its facilities were in Dolgoprudny (the two buildings it occupied are still part of the present day campus), away from the MSU campus. It had its own independent admissions and education system, different from the one centrally mandated for all other universities. It was headed by the MSU "vice rector for special issues"—a position created specifically to shield the department from the university management.{{citation needed|date=July 2022}}
+
+As Kapitsa expected, the special status of the new school with its different "rules of engagement" caused much consternation and resistance within the university. The immediate cult status that Phystech gained among talented young people, drawn by the challenge and romanticism of working on the forefront of science and technology and on projects of "government importance," many of them classified, made it an untouchable rival of every other school in the country, including MSU's own Department of Physics. At the same time, the increasing disfavor of Kapitsa with the government (in 1950 he was essentially under house arrest) and anti-semitic repressions of the late 1940s made Phystech an easy target of intrigues and accusations of "elitism" and "[[rootless cosmopolitanism]]." In the summer of 1951, the Phystech department at MSU was shut down.<ref>[http://potential.org.ru/bin/view/Home/ArtDt200506141012PH5J6   "Повесть древних времён или предыстория Физтеха", Ch 6] by N.V. Karlov.</ref>
+
+A group of academicians, backed by Air Force general Ivan Fedorovich Petrov, who was a Phystech supporter influential enough to secure Stalin's personal approval on the issue, succeeded in re-establishing Phystech as an independent institute. On September 17, 1951, a government decree re-established Phystech as the Moscow Institute of Physics and Technology.<ref>[http://potential.org.ru/bin/view/Home/ArtDt200507231448PH5J7    "Повесть древних времён или предыстория Физтеха", Ch 7] by N.V. Karlov.</ref>
+
+Apart from Kapitsa, other prominent scientists who taught at MIPT in the years that followed included Nobel prize winners [[Nikolay Semyonov]], [[Lev Landau]], [[Aleksandr Mikhailovich Prokhorov|Alexandr Prokhorov]], [[Vitaly Ginzburg]]; and Academy of Sciences members [[Sergey Alekseyevich Khristianovich|Sergey Khristianovich]], [[Mikhail Alekseevich Lavrentiev|Mikhail Lavrentiev]], [[Mstislav Keldysh]], [[Sergey Korolyov]] and [[Boris Rauschenbach]]. MIPT alumni include [[Andre Geim]] and [[Konstantin Novoselov]], the 2010 winners of the [[Nobel Prize in Physics]].<ref>{{cite web|url=http://nobelprize.org/nobel_prizes/physics/laureates/2010/|title=The Nobel Prize in Physics 2010|website=nobelprize.org|access-date=31 October 2017}}</ref>
+
+==The Phystech System==
+The following is a summary of the key principles of the Phystech System, as outlined by Kapitsa in his 1946 letter arguing for the founding of MIPT:
+*Rigorous selection of gifted and creative young individuals.
+*Involving leading scientists in student education, in close contact with them in their creative environment.
+*An individualized approach to encourage the cultivation of students' creative drive and to avoid overloading them with unnecessary subjects and rote learning common in other schools and necessitated by mass education.
+*Conducting their education in an atmosphere of research and creative engineering, using the best existing laboratories in the country.{{citation needed|date=June 2022}}
+
+==Departments==
+The institute has eleven departments, ten of them with an average of 80 students admitted annually into each.<ref>{{cite web|url=http://www.mipt.ru/abitur/stat/stat2006.html|title=2006 Admission Statistics (in Russian)|access-date=31 October 2017|url-status=dead|archive-url=https://web.archive.org/web/20120420094111/http://mipt.ru/abitur/stat/stat2006.html|archive-date=20 April 2012}}</ref>
+* Radio Engineering and Cybernetics
+* General and Applied Physics
+*Aerophysics and Space Research
+* Molecular and Biological Physics
+* Physical and Quantum Electronics
+*[[FALT|Aeromechanics and Flight Engineering]]
+*Applied Mathematics and Control
+* Problems of Physics and Power Engineering
+* Innovation and High Technology
+*Nano-, Bio-, Information and Cognitive Technologies{{citation needed|date=July 2022}}
+
+==Admissions==
+Most students apply to MIPT immediately after graduating from high school at the age of 18. Traditionally, applicants were required to take written and oral exams in both mathematics and physics, write an essay and have an interview with the faculty. In recent years, oral exams have been eliminated, but the interview remains an important part of the selection process. The strongest performers in national physics and mathematics competitions and [[International Mathematics Olympiad|IMO]]/[[IPhO]] participants are granted admission without exams, subject only to the interview.{{citation needed|date=June 2022}}
+
+In accordance with the traditions of the [[Education in the Soviet Union|Soviet education system]], education at MIPT is free for most students. Further, students receive small [[scholarships]] (as of 2020, $70–105 for bachelor's and $110–140 for master's degree per month,<ref name="Scholarships">{{Cite web|url=https://mipt.ru/students/life/stipendii/gas/|title=Государственная академическая стипендия — Студенческая жизнь|website=mipt.ru}}</ref> depending on the student's performance) and rather cheap (as of 2020, $13–20<ref>{{Cite web|url=https://mipt.ru/poselenie/students/oplata.php|title=Residence Prices}}</ref> per month, depending on location and comfortability) housing on campus.{{citation needed|date=July 2022}}
+
+==Education==
+[[Image:E7331-MFTI-Glavny-Korpus-schedule.jpg|thumb|A student studying the class schedule]]
+[[File:Hybrid convertiplane "Irbis-538" by MFTI during the "Armiya 2021" exhibition.jpg|thumb|Hybrid convertiplane "Irbis-538" during the "[[Army (International Military-Technical Forum)|Armiya 2021]]" exhibition.]]
+It normally takes six years for a student to graduate from MIPT. The curriculum of the first three years consists exclusively of compulsory courses, with emphasis on mathematics, physics and English. There are no significant curriculum differences between the departments in the first three years. A typical course load during the first and second years can be over 48 hours a week, not including homework. Classes are taught five days a week, beginning at 9:00 am or 10:30 am and continuing until 5:00 pm, 6:30 pm, or 8:00 pm. Most subjects include a combination of lectures and seminars (problem-solving study sessions in smaller groups) or laboratory experiments. Lecture attendance is optional, while seminar and lab attendance affects grades. Andre Geim, a graduate and Nobel prize winner stated "The pressure to work and to study was so intense that it was not a rare thing for people to break and leave and some of them ended up with everything from schizophrenia to depression to suicide."<ref>{{cite web|url=http://www.scientific-computing.com/features/feature.php?feature_id=1|title=Renaissance scientist with fund of ideas|date=15 July 2006|publisher=Scientific Computing World}}</ref>
+
+MIPT follows a [[semester]] system. Each semester includes 15 weeks of instruction, two weeks of finals and then three weeks of oral and written exams on the most important subjects covered in the preceding semester.{{citation needed|date=July 2022}} Starting with the third year, the curriculum matches each student's area of specialization and also includes more elective courses. Most importantly, starting with the third year, students begin work at ''base institutes'' (or "base organizations," usually simply called ''bases''). The bases are the core of the Phystech system. Most of them are research institutes, usually belonging to the [[Russian Academy of Sciences]]. At the time of enrollment, each student is assigned to a base that matches his or her interests. Starting with the third year, a student begins to commute to their base regularly, becoming essentially a part-time employee. During the last two years, a student spends 4–5 days a week at their base institute and only one day at MIPT.{{citation needed|date=July 2022}}
+
+The base organization idea is somewhat similar to an internship in that students participate in "real work." However, the similarity ends there. All base organizations also have a curriculum for visiting students and besides their work, the students are required to take those classes and pass exams. In other words, a base organization is an extension of MIPT, specializing in each particular student's area of interests.{{citation needed|date=July 2022}} While working at the base organization, a student prepares a thesis based on his or her research work and presents ("defends") it before the Qualification Committee consisting of both MIPT faculty and the base organization staff. Defending the thesis is a requirement for graduation.{{citation needed|date=July 2022}}
+
+===Base organizations===
+As of 2005, MIPT had 103 base organizations. The following list of institutes is currently far from being complete:
+*Center for Arms Control, Energy and Environmental Studies (established 1991)<!-- (establishment dates can be added eg (1956), with citations where no page exists--> <ref>{{cite web|url=http://www.summersymposium.org/sshist.html|title=Summer Symposiums History|work=International Summer Symposium on Science and World Affairs|access-date=11 November 2013}}</ref>
+*[[Engelhardt Institute of Molecular Biology]] [[Russian Academy of Sciences|RAS]]
+*[[Gromov Flight Research Institute]]
+*Institute for Information Transmission Problems RAS
+*[[Institute for Nuclear Research]] RAS
+*[[Institute for Physical Problems]]
+*[[Institute for High Energy Physics]] (1963)
+*Institute for Problems in Mechanics RAS
+*[[Institute for Spectroscopy Russian Academy of Sciences]]
+*[[Institute for Theoretical and Experimental Physics]]
+*Institute of Biochemical Physics RAS
+*Institute of Molecular Genetics RAS
+*Institute of Numerical Mathematics RAS
+*[[Institute of Problems of Chemical Physics]] RAS (1956)
+*[[Institute of Radio-engineering and Electronics|Institute of Radio Engineering and Electronics]] of RAS
+*Institute of Solid State Physics RAS
+*Institute of Synthetic Polymer Materials RAS
+*[[Joint Institute for Nuclear Research]]
+*[[Kurchatov Institute]] (formerly Kurchatov Institute of Atomic Energy)
+*[[Landau Institute for Theoretical Physics]]
+*[[Lebedev Physical Institute|Lebedev Institute of Physics RAS]] (FIAN)
+*[[Lebedev Institute of Precision Mechanics and Computer Engineering]]
+*N.N. Andreyev Acoustics Institute
+*N.N. Semenov Institute of Chemical Physics, RAS
+*Nuclear Safety Institute of RAS (IBRAE)
+*[[Shirshov Institute of Oceanology]]
+*[[Alexei Vasilievich Shubnikov|Shubnikov]] Institute of Crystallography RAS
+*[[Space Research Institute]] RAS (1965)
+*[[Steklov Institute of Mathematics]]
+*[[Zhukovsky Central Aerohydrodynamic Institute]]
+*and a number of [[OKB]]s (experimental design bureaux){{citation needed|date=July 2022}}
+ 
+In addition, a number of Russian and Western companies act as base organizations of MIPT. These include:
+
+*[[1C Company]]
+*[[ABBYY]]
+*Competentum Group or Physicon
+*NPMP "Concept Consulting"
+*[[Intel]]
+*IPG Photonics
+*Kraftway
+*MetaSynthesis
+*[[Paragon Software Group]]
+*[[S.P. Korolev Rocket and Space Corporation Energia]]
+*[[SWsoft]]
+*[[Yandex]]{{citation needed|date=July 2022}}
+
+
+==Degrees ==
+Before 1998, students could graduate only after completing the full six-year curriculum and defending their thesis. Upon graduation, they were awarded a [[specialist degree]] in Applied Mathematics and Physics and, beginning in the early 1990s, a [[Master's degree]] in Physics. Since 1998, students have been awarded a [[Bachelor's degree]] diploma after four years of study and the defense of a Bachelor's "qualification work" (effectively a smaller and less involved version of the Master's thesis).{{citation needed|date=July 2022}}
+
+The full course of education at MIPT takes six years to complete, just like an American bachelor's degree followed by a master's degree. The MIPT curriculum is more extensive compared to an average American college according to the school.<ref>{{cite web|url=http://www.mipt.ru/eng/questions/approach.html|title=Phystech's Educational Approach|access-date=31 October 2017|url-status=dead|archive-url=https://web.archive.org/web/20110131231856/http://www.mipt.ru/eng/questions/approach.html|archive-date=31 January 2011}}</ref> There is an opinion at the school that an MIPT specialist/Master's diploma may be roughly equivalent to an American [[PhD]] in physics.<ref>{{cite web|url=http://www.mipt.ru/eng/questions/hierarchy.html|title=Academicians, Hierarchy and Titles in Russian Science, MIPT Web Site|access-date=31 October 2017|url-status=dead|archive-url=https://web.archive.org/web/20060502110308/http://www.mipt.ru/eng/questions/hierarchy.html|archive-date=2 May 2006}}</ref>{{citation needed|date=June 2022}}
+
+
+==Rankings==
+In 2020 and 2021, ''[[Times Higher Education]]'' ranked MIPT #201 in the world, in 2022 QS World University Ratings ranked it #290 in the world, in 2022 ''[[U.S. News & World Report]]'' ranked it #438 in the world, and in 2022 ''[[Academic Ranking of World Universities]]'' ranked it #501 in the world.<ref name="auto1"/><ref name="auto2"/><ref name="auto"/>
+
+Traditional university rankings are often based in part on the universities' research output and prizes won by faculty.<ref>{{cite web|url=http://ed.sjtu.edu.cn/rank/2005/ARWU2005Methodology.htm|title=Shanghai Jao Tong University ranking methodology|access-date=31 October 2017|url-status=dead|archive-url=https://web.archive.org/web/20060507071140/http://ed.sjtu.edu.cn/rank/2005/ARWU2005Methodology.htm|archive-date=7 May 2006}}</ref>
+
+
+==People==
+
+===Demographics===
+About 15% of all students are residents of Moscow and nearly the same are from [[Moscow Oblast|Moscow region]]; the rest come from all over the former Soviet Union. The student population is almost exclusively male, with the female/male ratio in a department rarely exceeding 15% (seeing 2–3 women in a class of 80 is not uncommon). In 2009 more than 20% of first year students were females.<ref>{{cite web|url=http://www.mipt.ru/abitur/stat/stat2009.html|title=MIPT 2009 admittance statistics|access-date=31 October 2017|url-status=dead|archive-url=https://web.archive.org/web/20091213071125/http://mipt.ru/abitur/stat/stat2009.html|archive-date=13 December 2009}}</ref>
+
+There are no reliable statistics on the careers of MIPT graduates.{{citation needed|date=June 2022}}
+
+===Notable faculty and alumni===
+{{Category see also|Moscow Institute of Physics and Technology alumni}}
+
+====Scientists====
+Nobel Prize winners
+
+*[[Lev Landau]] – physicist, [[Nobel Prize]] 1962<ref>{{cite web|url=http://nobelprize.org/nobel_prizes/physics/laureates/1962/press.html|title=Nobel Prize in Physics 1962 – Presentation Speech|website=nobelprize.org|access-date=31 October 2017}}</ref>
+*[[Pyotr Kapitsa]] – discovered [[superfluidity]],<ref>{{cite journal|author=Kapitza P|title=Viscosity of liquid helium below the λ-point|journal=Nature|volume=141|issue=3558
+|pages=74|year=1938|doi=10.1038/141074a0|bibcode = 1938Natur.141...74K |doi-access=free}}</ref> Nobel Prize 1978<ref>{{cite web|url=http://nobelprize.org/nobel_prizes/physics/laureates/1978/press.html|title=Press Release: The 1978 Nobel Prize in Physics|website=nobelprize.org|access-date=31 October 2017}}</ref>
+*[[Nikolay Semyonov]] – best known for his work on [[chain reaction]]s, Nobel Prize 1956<ref>{{cite web|url= http://nobelprize.org/nobel_prizes/chemistry/laureates/1956/press.html|title=The Nobel Prize in Chemistry 1956: Award ceremony speech |first = A.|last= Ölander|website=nobelprize.org}}</ref> in chemistry
+*[[Vitaly Ginzburg]] – physicist, Nobel Prize 2003,<ref>{{cite web|url=http://nobelprize.org/nobel_prizes/physics/laureates/2003/press.html|title=Press Release: The 2003 Nobel Prize in Physics|website=nobelprize.org|access-date=31 October 2017}}</ref> co-developer of the Soviet [[Teller-Ulam design#Soviet developments|H-bomb]]
+*[[Aleksandr Mikhailovich Prokhorov|Alexandr Prokhorov]] – an Australian-Soviet-Russian co-inventor of the [[laser]], Nobel Prize 1964<ref>{{cite web|url=http://nobelprize.org/nobel_prizes/physics/laureates/1964/press.html|title=Nobel Prize in Physics 1964 – Presentation Speech|website=nobelprize.org|access-date=31 October 2017}}</ref>
+*[[Alexei Abrikosov (physicist)|Alexey Abrikosov]] – Soviet-Russian-American [[Theoretical physics|theoretical physicist]] whose main contributions were in the field of [[condensed matter physics]]. 
+*[[Igor Tamm]] – physicist who received the 1958 [[Nobel Prize in Physics]], jointly with [[Pavel Alekseyevich Cherenkov]] and [[Ilya Mikhailovich Frank]], for their discovery of [[Cherenkov radiation]].
+*[[Andrei Sakharov]] –  a [[Nuclear physics|nuclear physicist]], [[Soviet dissident|dissident]], Nobel laureate, and activist for [[Nuclear disarmament|disarmament]], peace, and human rights.
+*[[Andre Geim|Sir Andrey Geim]] – Russian-Dutch-British discoverer of [[graphene]], [[gecko tape]] and levitating frogs; [[Fellow of the Royal Society]], Nobel Prize in physics, 2010
+*[[Konstantin Novoselov|Sir Konstantin Novoselov]] – Russian-British, Nobel Prize in physics for graphene research, 2010
+
+Other notable scientists
+*[[Alexander F. Andreev|Alexander Andreev]] – a theoretical physicist best known for explaining the eponymous [[Andreev reflection]]
+*[[Alexander Belavin]] -  a physicist, known for his contributions to [[string theory]]
+*[[Boris Babayan]] – a pioneer of [[Elbrus (computer)|Russian supercomputers]], an [[Intel]] Fellow 2004<ref>{{cite web|title=Intel Fellow – Boris A. Babayan|url=http://www.intel.com/pressroom/kits/bios/bbabayan.htm|access-date=31 October 2017|website=www.intel.com}}</ref> and software architect
+*[[Oleg Belotserkovsky]] – rector of MIPT (1962–1987), mathematician and mechanician
+*[[Spartak Belyaev]] - a theoretical physicist contributed to nuclear physics
+*[[Andrei Bolibrukh]] – a mathematician who solved [[Hilbert's twenty-first problem]] in 1989<ref>{{cite book
+|author=Bolibrukh AA
+|title=21st Hilbert Problem for Linear Fuchsian Systems
+|publisher=Amer Mathematical Society
+|year=1995
+|isbn=0-8218-0466-9}}</ref>
+*[[Gersh Budker]] - a [[Soviet Union|Soviet]] physicist, specialized in [[nuclear physics]] and [[accelerator physics]]
+*[[Boris Chertok]] - [[Electrical engineering|electrical engineer]] and the [[Control system engineering|control systems designer]] in the [[Soviet Union]]'s [[Soviet space program|space program]]
+* [[Nikolai Borisovich Delone]] – a physicist who discovered [[multiphoton ionization]]
+* [[Gerasim Eliashberg]] - a physicist who contributed to the theory of superconductivity and statistical physics
+* [[Igor Ekhielevich Dzyaloshinskii|Igor Dzyaloshinskii]] - theoretical physicist, known for his research on magnetism, [[multiferroics]], [[Conductance quantum|one-dimensional conductors]], [[liquid crystal]]s, [[van der Waals force]]s, and applications of methods of [[quantum field theory]]
+*[[Vsevolod Gantmakher]] - experimental physicist
+*[[Semyon Gershtein]] –  a theoretical physicist who contributed to nuclear physics, particle physics and astrophysics
+*[[Victor Glushkov]] - a Soviet mathematician, the founding father of [[information technology]] in the [[Soviet Union]] and one of the founding fathers of [[Soviet cybernetics]]
+*[[Lev Gor'kov]] –  a Russian-American theoretical physicist known for his pioneering work in the field of [[superconductivity]]
+*Yurij Ionov – discovered [[genome]] instability as a mechanism in [[colorectal cancer|colonic carcinogenesis]]<ref>{{cite journal
+|vauthors=Ionov Y, Peinado MA, Malkhosyan S, Shibata D, Perucho M |title=Ubiquitous somatic mutations in simple repeated sequences reveal a new mechanism for colonic carcinogenesis
+|journal=Nature
+|volume=363
+|issue=6429
+|pages=558–61
+|year=1993
+|doi=10.1038/363558a0
+|pmid=8505985|bibcode = 1993Natur.363..558I |s2cid=4254940
+}}</ref>
+*[[Alexander Holevo]] – a mathematician known for [[Holevo's theorem]]
+*[[Isaak Khalatnikov]] '''--''' a Soviet [[Theoretical physics|theoretical physicist]] who has made contributions to many areas of theoretical physics, including [[general relativity]], [[quantum field theory]], as well as the theory of quantum liquids
+*[[Alexei Kitaev|Alexey Kitaev]] - a Russian-American theoretical physisis, best known for introducing the [[quantum phase estimation algorithm]] and the concept of the [[topological quantum computer]]
+*[[Sergei Korolev|Sergey Korolev]] - a Soviet [[Aerospace engineering|rocket engineer]] and spacecraft designer during the [[Space Race]] between the United States and the Soviet Union in the 1950s and 1960s
+*[[Leonid Keldysh]] – a theoretical physisis known for developing the [[Keldysh formalism]]
+*[[Mstislav Keldysh]] - a Soviet mathematician who worked as an engineer in the [[Soviet space program]]. Among scientific circles of USSR Keldysh was known with epithet "the Chief Theoretician" in analogy with epithet "the Chief Designer" used for [[Sergey Korolyov]].
+*[[Leonid Khachiyan]] – Soviet-American mathematician and computer scientist famous for his [[Ellipsoid method]] for [[linear programming]], [[Fulkerson Prize]] (1982)
+*[[Vadim Knizhnik]] - physicist know for [[Knizhnik–Zamolodchikov equations]]
+*[[Igor Kurchatov]] - a Soviet nuclear physicist who is known as the director of the [[Soviet atomic bomb project]] 
+*[[Anatoly Larkin]] - a theoretical physicist, recognised as a leader in theory of condensed matter, and who was also a teacher of several generations of theorists
+*[[Grigory Landsberg]] - a Soviet physicist who worked in the fields of [[optics]] and [[spectroscopy]]. Together with [[Leonid Mandelstam]] he co-discoverer inelastic combinatorial scattering of light, which known as [[Raman scattering]]
+*[[Sergei Alekseyevich Lebedev|Sergei Lebedev]] – invented [[MESM]] (1950) and [[BESM]] (1953) mainframe computers
+*[[Robert Liptser]] - Russian-Israeli mathematician who made contributions to the theory and applications of stochastic processes 
+*[[Alexander Migdal]] – Russian-American, defined 2D [[quantum gravity]],<ref>{{cite journal
+|vauthors=Gross DJ, Migdal AA |title=Nonperturbative two-dimensional quantum gravity
+|journal=Phys. Rev. Lett.
+|volume=64
+|issue=2
+|pages=127–30
+|year=1990
+|doi=10.1103/PhysRevLett.64.127
+|pmid=10041657
+|bibcode=1990PhRvL..64..127G}}</ref> 2D/3D visualization software and internet entrepreneur
+* [[Viatcheslav Mukhanov]] – contributor to the theory of  [[Inflation (cosmology)|cosmological inflation]]
+*[[Sergey Nikolsky]] – mathematician
+*[[Lev Okun]] - a Soviet [[theoretical physicist]], who made contributions to the theory of elementary particles
+*[[Lev Pitaevskii]] – theoretical physicist, who made contributions to the theory of [[quantum mechanics]], [[electrodynamics]], [[low-temperature physics]], [[plasma physics]], and [[condensed matter physics]]
+*[[Valery Pokrovsky]] - is a Soviet and Russian physicist. He is best known for his pioneering and fundamental contributions to the modern theory of [[phase transition]]s
+*[[Alexander Markovich Polyakov|Alexander Polyakov]] – [[quantum field theory]] classics,<ref>{{cite journal
+|vauthors=Gubser SS, Klebanov IR, Polyakov AM |title=Gauge theory correlators from non-critical string theory
+|journal=Phys. Lett. B
+|volume=428
+|issue=1–2
+|pages=105–14
+|year=1998
+|doi=10.1016/S0370-2693(98)00377-3
+|bibcode=1998PhLB..428..105G|arxiv = hep-th/9802109 |s2cid=15693064
+}}</ref><ref name=a>{{cite journal
+|vauthors=Belavin AA, Polyakov AM, Zamolodchikov AB |title=Infinite conformal symmetry in two-dimensional quantum field theory
+|journal=Nucl. Phys. B
+|volume=241
+|issue=2
+|pages=333–80
+|year=1984
+|doi=10.1016/0550-3213(84)90052-X
+|bibcode=1984NuPhB.241..333B|url=http://cds.cern.ch/record/152341/files/198407016.pdf
+}}</ref><ref>{{cite journal
+|author=Polyakov AM
+|title=Quantum geometry of bosonic strings
+|journal=Phys. Lett. B
+|volume=103
+|issue=3
+|pages=207–10
+|year=1981|doi=10.1016/0370-2693(81)90743-7
+|bibcode=1981PhLB..103..207P}}</ref><ref name=b>{{cite journal
+|vauthors=Knizhnik VG, Polyakov AM, Zamolodchikov AB |title=Fractal structure of 2d—quantum gravity
+|journal=Mod. Phys. Lett. A
+|volume=3
+|issue=8
+|pages=819–26
+|year=1988
+|doi=10.1142/S0217732388000982
+|bibcode=1988MPLA....3..819K}}</ref><ref>{{cite journal
+|author=Polyakov AM
+|title=Quark confinement and topology of gauge theories
+|journal=Nucl. Phys. B
+|volume=120
+|issue=3
+|pages=429–58
+|year=1977
+|doi=10.1016/0550-3213(77)90086-4
+|bibcode=1977NuPhB.120..429P}}</ref> [[Dirac Medal|Dirac]]'86<ref>{{cite web|url=http://prizes.ictp.it/Dirac/DiracMedal86.html|title=Dirac Medallists 1986 — ICTP Portal|website=prizes.ictp.it|access-date=31 October 2017}}</ref> and [[Lorentz Medal|Lorentz]]'94 Medals
+* [[Emmanuel Rashba]] – Soviet-American theoretical physicist known for the [[Rashba effect]] and prediction of the [[Electric dipole spin resonance]],<ref>E. I. Rashba, Sov. Phys. Solid State '''2''', 1109 (1960)</ref> [[Lenin Prize]]
+*[[Boris Rauschenbach]] – [[aerospace engineering|rocket scientist]] in [[control engineering]], responsible for the first photographs of the [[far side of the Moon]] (1959)
+*[[Mikhail Shifman]] – non-perturbative [[Quantum chromodynamics|QCD]] classics,<ref>{{cite journal
+|vauthors=Shifman MA, Vainshtein AI, Zakharov VI |title=QCD and resonance physics: The ρ-ω mixing
+|journal=Nucl. Phys. B
+|volume=147
+|issue=5
+|pages=519–34
+|year=1979
+|doi= 10.1016/0550-3213(79)90024-5|bibcode = 1979NuPhB.147..519S }}</ref><ref>{{cite journal
+|vauthors=Shifman MA, Vainshtein AI, Zakharov VI |title=QCD and resonance physics. Applications
+|journal=Nucl. Phys. B
+|volume=147
+|issue=5
+|pages=448–518
+|year=1979
+|doi= 10.1016/0550-3213(79)90023-3|bibcode = 1979NuPhB.147..448S }}</ref> [[Sakurai Prize]] (1999), [[Lilienfeld Prize]] (2006)
+*[[Alexei Vasilievich Shubnikov]] - crystallographer and mathematician, who pioneered Russian crystallography and its application
+*[[Rashid Sunyaev]] – an author of the [[Sunyaev-Zel'dovich effect]] and a model of [[black hole]]s<ref>{{cite journal
+|author=Shakura NI, Syunyaev RA
+|title=Black holes in binary systems. Observational appearance
+|journal=Astron. Astrophys.
+|volume=24
+|pages=337–55
+|year=1973
+|bibcode=1973A&A....24..337S
+|last2=Sunyaev}}</ref>
+*[[Karen Ter-Martirosian]] – a theoretical physicist greatly contributed to high-energy physics
+*[[Edward Trifonov]] - Russian-Israeli molecular biophysicist 
+*[[Misha Tsodyks]] - theoretical and computational neuroscientist 
+*[[Sergey Ivanovich Vavilov|Sergey Vavilov]] – a physicist, who founded the Soviet school of [[physical optics]], known by his works in [[luminescence]]. In 1934 he co-discovered the [[Cherenkov radiation|Vavilov-Cherenkov effect]], a discovery for which [[Pavel Cherenkov]] was awarded a Nobel Prize in Physics in 1958.
+*[[Victor Veselago]] – put forward a theory<ref>{{cite journal
+|author=Veselago VG
+|title=The electrodynamics of substances with simultaneously negative values of ε and μ
+|journal=Sov. Phys. Usp.
+|volume=10
+|issue=4
+|pages=509–14
+|year=1968
+|doi=10.1070/PU1968v010n04ABEH003699
+|bibcode=1968SvPhU..10..509V}}</ref> for [[metamaterials]] of the 21st century in 1967
+*[[Grigory E. Volovik|Grigory Volovik]] - theoretical physicist, who specializes in condensed matter physics. He is known for the Volovik effect.
+*[[Vladimir E. Zakharov|Vladimir Zakharov]] - mathematician and physicist, who is known for his contributions in nonlinear wave theory in plasmas, hydrodynamics, oceanology, geophysics, solid state physics, optics, and general relativity.
+*[[Alexander Zamolodchikov]] – quantum field theory classics<ref name=a /><ref name=b /><ref>{{cite journal
+|vauthors=Knizhnik VG, Zamolodchikov AB |title=Current algebra and Wess-Zumino model in two dimensions
+|journal=Nucl. Phys. B
+|volume=247
+|issue=1
+|pages=83–103
+|year= 1984
+|doi= 10.1016/0550-3213(84)90374-2|bibcode = 1984NuPhB.247...83K }}</ref>
+*[[Sergey Yablonsky]] - mathematician, one of the founders of the Soviet school of [[Cybernetics|mathematical cybernetics]] and [[discrete mathematics]].
+
+====Cosmonauts====
+*[[Yuri Baturin]] – cosmonaut (1998 and 2001 missions), former head of national security
+*[[Aleksandr Kaleri]] – cosmonaut, spent 609 days on the [[Mir]] and [[ISS]] space stations
+*[[Aleksandr Serebrov]] – cosmonaut, 373 days in outer space (four flights)
+
+====Political and business persons====
+*[[Alexander Abramov]] – founder of [[Evraz Group]], #137 on the ''Forbes'' list
+*[[Boris Aleshin]] – deputy prime minister in Russian government (2003–2004), president of [[AvtoVAZ]] (2007–2009), general director of [[TsAGI]] (2009–)
+*[[Serguei Beloussov]] – businessman, entrepreneur, investor and speaker, founder of [[Acronis]], executive chairman of the board and chief architect of [[Parallels, Inc.]]
+*[[Aleksandr Frolov (businessman)|Aleksandr Frolov]] – CEO of [[Evraz Group]], #390 on the ''Forbes'' list
+* [[Valentin Gapontsev]] &ndash; [[fiber laser]] technology pioneer, founder of [[IPG Photonics]]
+*Mikhail Kirpichnikov – Russian Science & Technology Minister (1998–2000), dean of Biology at [[Moscow State University|MSU]] (2006–)
+*[[Pavlo Klimkin]] – [[Minister of Foreign Affairs of Ukraine]].<ref name="Parliament appoints Klimkin as Ukrainian foreign minister">[http://en.interfax.com.ua/news/general/210047.html Parliament appoints Klimkin as Ukrainian foreign minister], [[Interfax-Ukraine]] (19 June 2014)</ref>
+*[[Alex Konanykhin]] – Entrepreneur, former banker, former [[Russian oligarch]], with political asylum in the United States.
+*[[Nikolay Kudryavtsev]] – rector of MIPT (1997–)
+*[[Boris Saltykov]] – Russian Minister of Science and Technology (1991–1996)
+*[[Natan Sharansky]] – Israeli [[Cabinet (government)|Cabinet]] Minister (1996–2005), US [[Congressional Gold Medal]] ([[List of Congressional Gold Medal recipients|1986]])
+*[[Sergei Guriev]] – Economist, former rector of [[New Economic School]] (2004–2013)
+*[[Volodymyr Shkidchenko]] – Defense Minister of Ukraine (2003–2004), four-star general of the Army
+*[[Nikolay Storonsky]] – Russian-British founding CEO of British fintech company [[Revolut]] (2015–)
+*[[Ratmir Timashev]] – American and Swiss businessman, entrepreneur, investor, co-founder and CEO of [[Veeam]] and [[Aelita Software Corporation]], founder of ABRT Fund.
+*[[Dmitry Vadimovich Zelenin|Dmitry Zelenin]] – governor of [[Tverskaya Oblast]] (2004–2011)
