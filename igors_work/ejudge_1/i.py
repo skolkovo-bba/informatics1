@@ -8,4 +8,4 @@ else:
         ans[i] = min(9, summa - (how - i - 1))
         summa -= ans[i]
     
-    print(''.join(map(str, ans[::-1])))
+    print(ans[::-1], sep="")
