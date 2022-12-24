@@ -1,4 +1,4 @@
-"""ГОЛОСУЙ ЗА ИГОРЯ на выборах в студсовет"""
+
 
 def make_exchange(money, coins):
     n = money 
@@ -29,4 +29,4 @@ def make_exchange(money, coins):
     return dp[n]
 
 
-print(make_exchange(10, [5,2,3]))
+print(make_exchange(4, [1,2]))
