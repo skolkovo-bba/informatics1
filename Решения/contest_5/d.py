@@ -8,11 +8,13 @@ for _ in range(n):
     p.append(int(input()))
 
 
-dp = [0] * (w + 1)
-for i in range(0, n):
-    for k in range(1, w + 1):
-        if k >= m[i]:
-            dp[k] = max(dp[k], dp[k - m[i]] + p[i])
+dp = [-99999999] * (w + 1)
+dp[0] = 0
+for weight, pay in zip(m, p):
+    copy = dp.copy()
+    for k in range(weight, w + 1):
+        copy[k] = max(dp[k], dp[k - weight] + pay)
+    dp = copy
 
 
 print(max(dp))
