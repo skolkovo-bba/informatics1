@@ -1,3 +1,5 @@
+![alt-текст](https://github.com/skolkovo-bba/informatics/blob/main/шапка.png?raw=true)
+
 # Информатика
 
 Все задания и решения по информатике!
